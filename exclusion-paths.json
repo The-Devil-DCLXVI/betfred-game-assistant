@@ -1,0 +1,645 @@
+{
+  "Spin a Win": [
+    "/casino/play/spinawin"
+  ],
+  "Bet on Dragon Tiger": [
+    "/casino/play/bet-on-dragon-tiger"
+  ],
+  "Bet On Poker": [
+    "/casino/play/bet-on-poker"
+  ],
+  "Vegas Mega Fire Blaze Blackjack Live": [
+    "/casino/play/vegas-mega-fire-blaze-blackjack-live"
+  ],
+  "Vegas Mega Fire Blaze Roulette Live": [
+    "/casino/play/vegas-mega-fire-blaze-roulette-live"
+  ],
+  "Quantum Baccarat Live": [
+    "/casino/play/quantumbaccaratlive"
+  ],
+  "Hi-Lo Western": [
+    "/casino/play/hilowestern"
+  ],
+  "Busted Or Bailed": [
+    "/casino/play/busted-or-bailed"
+  ],
+  "Bellagio Baccarat": [
+    "/casino/play/bellagio-baccarat"
+  ],
+  "Bellagio Roulette": [
+    "/casino/play/bellagio-roulette"
+  ],
+  "MGM Grand Baccarat": [
+    "/casino/play/mgm-grand-baccarat"
+  ],
+  "MGM Grand American Roulette": [
+    "/casino/play/mgm-grand-american-roulette"
+  ],
+  "MGM Grand Roulette": [
+    "/casino/play/mgm-grand-roulette"
+  ],
+  "Bet On Baccarat": [
+    "/casino/play/bet-on-baccarat"
+  ],
+  "Cash Collect Roulette Live": [
+    "/casino/play/cash-collect-roulette-live"
+  ],
+  "x1000 Quantum Roulette": [
+    "/casino/play/x1000quantumroulette"
+  ],
+  "Deal or No Deal - The Big Draw": [
+    "/casino/play/deal-or-no-deal-the-big-draw"
+  ],
+  "SicBo Deluxe": [
+    "/casino/play/sicbo-deluxe"
+  ],
+  "Casino Stud Poker": [
+    "/casino/play/casino-stud-poker"
+  ],
+  "Spread Bet Roulette Live": [
+    "/casino/play/peru-spread-bet-roulette"
+  ],
+  "The Money Drop Live": [
+    "/casino/play/the-money-drop-live"
+  ],
+  "Buffalo Blitz Live": [
+    "/casino/play/buffalo-blitz-live"
+  ],
+  "Blackjack Soirée 1": [
+    "/casino/play/blackjack-soiree-1"
+  ],
+  "Punto Banco Soirée Gold": [
+    "/casino/play/puntobancosoireegold"
+  ],
+  "Blackjack Soirée Gold 1": [
+    "/casino/play/blackjacksoireegold1"
+  ],
+  "Grand Royale Cashback Blackjack": [
+    "/casino/play/grand-royale-cashback-blackjack"
+  ],
+  "Mega Fire Blaze™ Lucky Ball Live": [
+    "/casino/play/megafireblazeluckyballlive"
+  ],
+  "FashionTV Mega Party": [
+    "/casino/play/fashiontvmegaparty"
+  ],
+  "K-Pop Roulette Live": [
+    "/casino/play/kpoproulettelive"
+  ],
+  "Lucky Ball Roulette Live": [
+    "/casino/play/lucky-ball-roulette"
+  ],
+  "The Greatest Cards Show Live": [
+    "/casino/play/the-greatest-card-show"
+  ],
+  "Spin a Win Live": [
+    "/casino/play/spin-a-win"
+  ],
+  "Who Wants To Be A Millionaire Roulette": [
+    "/casino/play/who-wants-to-be-a-millionaire-roulette-live"
+  ],
+  "Quantum Roulette": [
+    "/casino/play/quantum-roulette"
+  ],
+  "Betfred All Bets Blackjack Live": [
+    "/casino/play/all-bets-blackjack-live"
+  ],
+  "Age of the Gods Bonus Roulette Live": [
+    "/casino/play/age-of-the-gods-bonus-roulette-live"
+  ],
+  "Live Football Roulette": [
+    "/casino/play/live-football-roulette"
+  ],
+  "Adventures Beyond Wonderland Live": [
+    "/casino/play/adventures-beyond-wonderland-live"
+  ],
+  "Mega Fire Blaze™ Blackjack Live": [
+    "/casino/play/megafireblazeblackjacklive"
+  ],
+  "Sticky Bandits Roulette Live": [
+    "/casino/play/stickybanditsroulettelive"
+  ],
+  "Jumanji The Bonus Level Live": [
+    "/casino/play/jumanjithebonuslevellive"
+  ],
+  "Sakura Fortune Live": [
+    "/casino/play/sakura-fortune-live"
+  ],
+  "Quantum Blackjack Plus": [
+    "/casino/play/quantum-blackjack-plus"
+  ],
+  "Mega Fire Blaze™ Roulette Live": [
+    "/casino/play/mega-fire-blaze-roulette-live"
+  ],
+  "Betfred Blackjack 2": [
+    "/casino/play/betfred-blackjack-2"
+  ],
+  "Super Card Blackjack Live": [
+    "/casino/play/super-card-blackjack-live"
+  ],
+  "Betfred Blackjack 1": [
+    "/casino/play/betfred-blackjack-1"
+  ],
+  "Betfred Roulette": [
+    "/casino/play/betfred-roulette"
+  ],
+  "Betfred £1 Blackjack": [
+    "/casino/play/betfred-1-blackjack"
+  ],
+  "8th Wonder Pull Tab": [
+    "/games/play/8thwonderpulltab"
+  ],
+  "Premium Baccarat": [
+    "/casino/play/premiumbaccarat"
+  ],
+  "Baccarat": [
+    "/casino/play/baccarat"
+  ],
+  "Hi Lo Gambler": [
+    "/games/play/realistichilogambler"
+  ],
+  "Towers": [
+    "/games/play/towers"
+  ],
+  "Plinball": [
+    "/games/play/plinball"
+  ],
+  "Keno Deluxe": [
+    "/games/play/kenodeluxe"
+  ],
+  "Keno": [
+    "/games/play/keno"
+  ],
+  "Bar-X Pull Tab": [
+    "/games/play/barxpulltab"
+  ],
+  "Bee Fab Pull Tab": [
+    "/games/play/beefabpulltab"
+  ],
+  "Bully4U Pull Tab": [
+    "/games/play/bully4upulltab"
+  ],
+  "Cashing Rainbows Pull Tab": [
+    "/games/play/cashingrainbowspulltab"
+  ],
+  "Diamonds & Rubies Pull Tab": [
+    "/games/play/diamondsandrubies"
+  ],
+  "Double Your Dough! Pull Tab": [
+    "/games/play/doubleyourdoughpulltab"
+  ],
+  "Fireworks Pull Tab": [
+    "/games/play/fireworkspulltab"
+  ],
+  "Golden Koi Pull Tab": [
+    "/games/play/goldenkoipulltab"
+  ],
+  "It Came From The Moon Pull Tab": [
+    "/games/play/itcamefromthemoonpulltab"
+  ],
+  "Jewellery Box Pull Tab": [
+    "/games/play/jewelleryboxpulltab"
+  ],
+  "Money Matrix Pull Tab": [
+    "/games/play/moneymatrixpulltab"
+  ],
+  "Pot Luck Pull Tab": [
+    "/games/play/potluck"
+  ],
+  "Pull A Cracker Pull Tab": [
+    "/games/play/pullacrackerpulltab"
+  ],
+  "Rainbow Magic Pull Tab": [
+    "/games/play/rainbowmagicpulltab"
+  ],
+  "Re-Trigger Happy Pull Tab": [
+    "/games/play/retriggerhappypulltab"
+  ],
+  "Shore Thing Pull tab": [
+    "/games/play/shorethingpulltab"
+  ],
+  "Shuffle Bots Pull Tab": [
+    "/games/play/shufflebotspulltab"
+  ],
+  "Slot It In Pull Tab": [
+    "/games/play/slotitinpulltab"
+  ],
+  "Snakes & Ladders Pull Tab": [
+    "/games/play/snakesandladderspulltab"
+  ],
+  "Sunken Treasure Pull Tab": [
+    "/games/play/sunkentreasure"
+  ],
+  "Sunset Reels Pull tab": [
+    "/games/play/sunsetreelspulltab"
+  ],
+  "Super Bar-X Pull Tab": [
+    "/games/play/superbarxpulltab"
+  ],
+  "Super Graphics Upside Down Pull Tab": [
+    "/games/play/supergraphicsupsidedownpulltab"
+  ],
+  "Triple Kings Pull Tab": [
+    "/games/play/triplekingspulltab"
+  ],
+  "All Bets Blackjack": [
+    "/casino/play/allbetsblackjack"
+  ],
+  "Blackjack": [
+    "/games/play/blackjack1",
+    "/games/play/blackjack2"
+  ],
+  "Blackjack 3 Hand High Stakes": [
+    "/vegas/play/blackjack-3-hand-high-stakes"
+  ],
+  "Blackjack 3 Hand Low Stakes": [
+    "/games/play/realisticblackjack"
+  ],
+  "Blackjack Cashback": [
+    "/casino/play/cashbackblackjack"
+  ],
+  "Blackjack Hi Lo 3 Hand Low Stakes": [
+    "/games/play/blackjackhilolowstakes"
+  ],
+  "Blackjack Perfect Pairs 21+3 3 box": [
+    "/games/play/realisticblackjackpp"
+  ],
+  "Blackjack Surrender": [
+    "/casino/play/blackjacksurrender"
+  ],
+  "Blackjack Switch": [
+    "/casino/play/blackjackswitch"
+  ],
+  "Free Chip Blackjack": [
+    "/casino/play/freechipblackjack"
+  ],
+  "Hi Lo Blackjack 3 Hand": [
+    "/vegas/play/hi-lo-blackjack-3-hand"
+  ],
+  "Hi Lo Blackjack 5 Box High Stakes": [
+    "/vegas/play/hi-lo-blackjack-5-box-high-stakes"
+  ],
+  "Lucky Lucky Blackjack": [
+    "/casino/play/luckyluckyblackjack"
+  ],
+  "Perfect Blackjack": [
+    "/casino/play/perfectblackjack"
+  ],
+  "Premium Blackjack Single Hand": [
+    "/casino/play/premiumblackjacksinglehand"
+  ],
+  "Quantum Blackjack Plus: Instant Play": [
+    "/casino/play/quantumblackjackplusinstantplay"
+  ],
+  "Rainbow Blackjack": [
+    "/games/play/rainbowblackjack"
+  ],
+  "Vegas Blackjack": [
+    "/vegas/play/vegas-blackjack"
+  ],
+  "Vegas Blackjack!": [
+    "/casino/play/vegasblackjack"
+  ],
+  "3 Card Brag": [
+    "/casino/play/3cardbrag"
+  ],
+  "Baccarrat": [
+    "/games/play/baccarrat"
+  ],
+  "Banca Francesa": [
+    "/casino/play/bancafrancesa"
+  ],
+  "Cards of Athena: Double Double Bonus": [
+    "/games/play/cardsofathenadoubledoublebonus"
+  ],
+  "Caribbean Stud Poker": [
+    "/casino/play/caribbeanstudpoker"
+  ],
+  "Hi-Lo": [
+    "/games/play/hilo"
+  ],
+  "Jacks or Better Classic": [
+    "/casino/play/jacksorbetter"
+  ],
+  "Perfect Pairs 3 Box High Stakes": [
+    "/vegas/play/perfect-pairs-3-box-high-stakes"
+  ],
+  "Perfect Pairs 5 Box High Stakes": [
+    "/vegas/play/perfect-pairs-5-box-high-stakes"
+  ],
+  "Retro Solitaire": [
+    "/games/play/retrosolitaire"
+  ],
+  "Vegas Solitaire": [
+    "/vegas/play/vegassolitaire"
+  ],
+"Cash Collect Scratch": [
+    "/casino/play/cashcollectscratchcard"
+  ],
+  "Deal Or No Deal What's In Your Box? Scratchcard": [
+    "/games/play/dealornodealwhatsinyourboxscratchcard"
+  ],
+  "Empire Treasures Scratch": [
+    "/casino/play/empiretreasurescratchcard"
+  ],
+  "Fire Blaze™ Scratch": [
+    "/casino/play/fireblazescratch"
+  ],
+  "Fire Company 5 Scratch": [
+    "/games/play/firecompany5"
+  ],
+  "Fishin' Frenzy Scratchcard": [
+    "/games/play/fishinfrenzyscratchcard"
+  ],
+  "Flash Pays Gold Scratcher": [
+    "/games/play/flashpaysgoldscratcher"
+  ],
+  "Football Scratch PowerPlay Jackpot": [
+    "/casino/play/footballscratchpowerplayjp"
+  ],
+  "Ghost Pepper Scratcher": [
+    "/games/play/ghostpepperscratcher"
+  ],
+  "Gold Rush Cash Collect Scratch": [
+    "/casino/play/goldrushcashcollectscratch"
+  ],
+  "Halloween Fortune Scratch": [
+    "/casino/play/halloweenfortunescratch"
+  ],
+  "Hot Gems Xtreme Scratch Card": [
+    "/casino/play/hotgemsxtremescratch"
+  ],
+  "Jaxpot 7's Scratcher": [
+    "/games/play/jaxpot7sscratcher"
+  ],
+  "King Kong Cash Scratchcard JPK": [
+    "/games/play/mobkingkongscratch"
+  ],
+  "Lucky Day: Cheltenham Champions": [
+    "/games/play/luckydaycheltenhamchampions"
+  ],
+  "Rocky Scratchcard": [
+    "/casino/play/rockyscratchcard"
+  ],
+  "Scratch Go World Cup": [
+    "/games/play/scratchgoworldcup"
+  ],
+  "Ted Big Money Scratchcard": [
+    "/games/play/tedscratchcard"
+  ],
+  "The Golden Grand Scratcher": [
+    "/games/play/thegoldengrand"
+  ],
+  "The Walking Dead Scratch": [
+    "/casino/play/thewalkingdeadscratch"
+  ],
+  "Wild Lava Scratch": [
+    "/casino/play/wildlavascratch"
+  ],
+  "Age of the Gods Scratch": [
+    "/casino/play/ageofthegodsscratchcard"
+  ],
+  "Ahmun Ra 3x Scratcher": [
+    "/games/play/ahmunra3xscratcher"
+  ],
+  "Anaconda Wild Scratch": [
+    "/casino/play/anacondawildscratch"
+  ],
+  "Blitz Scratch": [
+    "/casino/play/blitzscratch"
+  ],
+  "Bobby George Sporting Legends scratch": [
+    "/casino/play/bobbygeorgesportinglegendsscratch"
+  ],
+  "Book of Giza Gold Scratcher": [
+    "/games/play/bookofgizagoldscratcher"
+  ],
+  "Brian Lara: Sporting Legends Scratch": [
+    "/casino/play/brianlarasportinglegendsscratch"
+  ],
+  "Cards of Ra Jacks or Better": [
+    "/games/play/cardsofrajacksorbetter"
+  ],
+"101 Roulette": [
+    "/casino/play/101roulette"
+  ],
+  "10p Roulette": [
+    "/games/play/10proulette"
+  ],
+  "20p Roulette": [
+    "/games/play/20proulette"
+  ],
+  "20p Roulette Christmas": [
+    "/games/play/20proulettechristmas"
+  ],
+  "Age of the Gods Roulette": [
+    "/casino/play/ageofthegodsroulette"
+  ],
+  "Betfred 3D Roulette High Stakes": [
+    "/vegas/play/betfred3droulettehighstakes"
+  ],
+  "Betfred 3D Roulette Low Stakes": [
+    "/games/play/betfred3doulette"
+  ],
+  "Cash Collect Roulette": [
+    "/casino/play/cashcollectroulette"
+  ],
+  "Diamond Bet Roulette": [
+    "/casino/play/diamondbetroulette"
+  ],
+  "Dragon Jackpot Roulette": [
+    "/casino/play/dragonjackpotroulette"
+  ],
+  "European Football Roulette": [
+    "/casino/play/europeanfootballroulette"
+  ],
+  "European Platinum Roulette": [
+    "/vegas/play/europeanplatinumroulette"
+  ],
+  "European Roulette High Stakes": [
+    "/vegas/play/europeanroulettehighstakes"
+  ],
+  "European Roulette Low Stakes": [
+    "/games/play/europeanroulettelowstakes"
+  ],
+  "Frankie Dettoris Jackpot Roulette": [
+    "/casino/play/frankiedettorisjackpotroulette"
+  ],
+  "Mega Fire Blaze Roulette": [
+    "/casino/play/megafireblazeroulette"
+  ],
+  "Penny Roulette": [
+    "/casino/play/pennyroulette"
+  ],
+  "Premium European Roulette": [
+    "/casino/play/premiumeuropeanroulette"
+  ],
+  "Premium French Roulette": [
+    "/casino/play/premiumfrenchroulette"
+  ],
+  "Quantum Roulette Instant Play": [
+    "/casino/play/quantumrouletteinstantplay"
+  ],
+  "Roulette": [
+    "/games/play/roulettephone"
+  ],
+  "Spin Till You Win Roulette": [
+    "/casino/play/spintillyouwinroulette"
+  ],
+  "Spread Bet Roulette": [
+    "/casino/play/spread-bet-roulette"
+  ],
+  "Super Roulette": [
+    "/casino/play/superroulette"
+  ],
+  "Xtreme Fire Blaze™ Roulette": [
+    "/casino/play/xtremefireblazeroulette"
+  ],
+  "Virtual Dog Racing": [
+    "/casino/play/virtualdogracing"
+  ],
+  "Virtual! Cycling": [
+    "/casino/play/virtualcycling"
+  ],
+  "Virtual! Speedway": [
+    "/casino/play/virtualspeedway"
+  ],
+"Balloon Bash LuckyTap": [
+    "/games/play/balloonbashluckytap"
+  ],
+  "Bangu Bang LuckyTap": [
+    "/games/play/bangubangluckytap"
+  ],
+  "Battle for Booty LuckyTap": [
+    "/games/play/battleforbootyluckytap"
+  ],
+  "Betfred Flippin Rich LuckyTap": [
+    "/games/play/betfredflippinrichluckytap"
+  ],
+  "Betfred Gone Fishing LuckyTap": [
+    "/games/play/betfredgonefishingluckytap"
+  ],
+  "Betfred Prize Putt LuckyTap": [
+    "/games/play/betfredprizeputtluckytap"
+  ],
+  "Betfred To The 9s LuckyTap": [
+    "/games/play/betfredtothe9sluckytap"
+  ],
+  "Betfred Winning Kick LuckyTap": [
+    "/games/play/winningkickluckytap"
+  ],
+  "Big Kick LuckyTap": [
+    "/games/play/bigkickluckytap"
+  ],
+  "Bonus Bolts High Voltage LuckyTap": [
+    "/games/play/bonusboltshighvoltageluckytap"
+  ],
+  "Break the Bounty LuckyTap": [
+    "/games/play/breakthebounty"
+  ],
+  "Coconut Climb LuckyTap": [
+    "/games/play/coconutclimbluckytap"
+  ],
+  "Cupid's Arrow LuckyTap": [
+  "/games/play/cupidsarrowluckytap"
+  ],
+  "Dunk Buddy LuckyTap": [
+    "/games/play/dunkbuddyluckytap"
+  ],
+  "Eggcellent Wins LuckyTap": [
+    "/games/play/eggcellentwinsluckytap"
+  ],
+  "Flash Pays Blastoff LuckyTap": [
+    "/games/play/flashpaysblastoffluckytap"
+  ],
+  "Flash Pays Magician LuckyTap": [
+    "/games/play/flashpaysmagicianluckytap"
+  ],
+  "Flippin' Lucky LuckyTap": [
+    "/games/play/flippinluckyluckytap"
+  ],
+  "Fu Bao Bang LuckyTap": [
+    "/games/play/fubaobangluckytap"
+  ],
+  "Fu Bao Meow LuckyTap": [
+    "/games/play/fubaomeowluckytap"
+  ],
+  "Gold Bust LuckyTap": [
+    "/games/play/goldbustluckytap"
+  ],
+  "Hold Your Horses LuckyTap": [
+    "/games/play/holdyourhorsesluckytap"
+  ],
+  "Honoluloot Smash LuckyTap": [
+    "/games/play/honolulootsmashluckytap"
+  ],
+  "Jars of Power LuckyTap": [
+    "/games/play/jarsofpowerluckytap"
+  ],
+  "Land O' Loot LuckyTap": [
+    "/games/play/landolootluckytap"
+  ],
+  "Lil Demon LuckyTap": [
+    "/casino/play/lildemonluckytap"
+  ],
+  "Lit Christmas LuckyTap": [
+    "/games/play/litchristmasluckytap"
+  ],
+  "On the Hook LuckyTap": [
+    "/games/play/onthehookluckytap"
+  ],
+  "Piggies and the Bank LuckyTap": [
+    "/casino/play/piggiesandthebankluckytap"
+  ],
+  "Piggy Payouts Bank Buster LuckyTap": [
+    "/games/play/piggypayoutsbankbusterluckytap"
+  ],
+  "Pool Pong LuckyTap": [
+    "/games/play/poolpongluckytap"
+  ],
+  "Pop a Shot 2 LuckyTap": [
+    "/games/play/popashot2luckytap"
+  ],
+  "Pop A Shot LuckyTap": [
+    "/games/play/popashotluckytap"
+  ],
+  "Prize Punch LuckyTap": [
+    "/games/play/prizepunchluckytap"
+  ],
+  "Pure Puck LuckyTap": [
+    "/games/play/purepuckluckytap"
+  ],
+  "Santa Pays LuckyTap": [
+    "/games/play/santapaysluckytap"
+  ],
+  "Skee Ball LuckyTap": [
+    "/games/play/skeeballluckytap"
+  ],
+  "Slick Riches LuckyTap": [
+    "/games/play/slickrichesluckytap"
+  ],
+  "Super Pinata LuckyTap": [
+    "/games/play/superpinataluckytap"
+  ],
+  "Super Prize Punch LuckyTap": [
+    "/games/play/superprizepunchluckytap"
+  ],
+  "Super Surprise Box LuckyTap": [
+    "/games/play/supersurpriseboxluckytap"
+  ],
+  "Test Your Strength LuckyTap": [
+    "/games/play/testyourstrength"
+  ],
+  "The Nifty Fifty LuckyTap": [
+    "/games/play/niftyfiftyluckytap"
+  ],
+  "Ultimate Hoops LuckyTap": [
+    "/games/play/ultimatehoopsluckytap"
+  ],
+  "Wealthy Pig LuckyTap": [
+    "/games/play/wealthypigluckytap"
+  ],
+  "Winner Workshop Wonderland LuckyTap": [
+    "/games/play/winnerworkshopwonderlandluckytap"
+  ]
+}
